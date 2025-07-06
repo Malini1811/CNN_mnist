@@ -3,22 +3,22 @@
 
 This project implements a neural network model to classify handwritten digits from the MNIST dataset using Python and deep learning libraries like TensorFlow/Keras.
 
-## 🧠 Project Overview
+##  Project Overview
 
 The MNIST dataset contains 70,000 grayscale images of handwritten digits (0 through 9), each 28x28 pixels in size. The goal is to correctly classify the digits using a trained machine learning model.
 
-## 📁 Files
+##  Files
 
 - `mnist_final.ipynb`: The main Jupyter Notebook containing all code for loading data, building the model, training, evaluation, and predictions.
 
-## 📌 Key Features
+##  Key Features
 
 - Preprocessing of image data
 - Creation and training of a neural network model
 - Evaluation using test data
 - Visualization of model performance
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository or download the `.ipynb` file.
 2. Make sure you have Python installed (recommended: Python 3.8+).
@@ -31,7 +31,7 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits (0 thro
     jupyter notebook mnist_final.ipynb
     ```
 
-## ✅ Requirements
+##  Requirements
 
 - Python 3.x
 - Jupyter Notebook
@@ -39,10 +39,10 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits (0 thro
 - NumPy
 - Matplotlib
 
-## 📊 Results
+## Results
 
 The model achieves high accuracy (typically above 97%) on the MNIST test set. You can tune the architecture or training parameters for better performance.
 
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 - TensorFlow and Keras documentation
